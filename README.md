@@ -1,6 +1,6 @@
 # Quant Finance Notebooks
 
-This repository contains my personal projects and notebooks related to quantitative finance, financial mathematics, trading, risk modelling, and data analysis.
+This repository contains my personal notebooks related to quantitative finance, financial mathematics, trading, risk modelling, and data analysis.
 
 The goal of this repository is to document my learning process and build a portfolio of practical quant finance projects using Python.
 
