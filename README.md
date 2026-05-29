@@ -34,6 +34,21 @@ Main ideas covered:
 - Interactive visualization of simulated asset prices
 - Connection to the Black-Scholes framework
 
+### Financial Data Import and Visualisation Notebook
+
+Notebook: `fin_data_import_and_visualisation.ipynb`
+
+This notebook introduces basic financial data analysis using `yfinance`, pandas, and matplotlib. It downloads historical stock and ETF prices, plots price series, converts prices into returns, and computes key performance and risk measures.
+
+Main ideas covered:
+
+- Importing market data from Yahoo Finance
+- Visualising stock and ETF price series
+- Computing compound returns
+- Annualizing returns and volatility
+- Calculating a raw Sharpe ratio
+- Building a wealth index and analysing drawdowns
+
 ## Technologies Used
 
 - Python
