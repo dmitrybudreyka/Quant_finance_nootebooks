@@ -6,3 +6,4 @@ yfinance>=0.2.40
 pyarrow>=14.0
 jupyter>=1.0
 matplotlib>=3.7
+streamlit>=1.36
